@@ -143,7 +143,7 @@ color:#FEFEFE;
 }
 #video1{
 display:flex;
-width:100%;
+width:93%;
 align-items: center;
 justify-content: center;
 }
@@ -201,7 +201,7 @@ justify-content: center;
 }
 @media screen and (max-width:513px){
 section::before{
-height:400px;
+height:450px;
 }
 .img img{
 width:355px;
